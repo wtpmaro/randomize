@@ -152,7 +152,8 @@ public class Randomize {
 
         System.out.println("Group opponents of Real Madrid: " + opponents.get(0) + ", " + opponents.get(1) + " i " +
                 opponents.get(2)+".");
-
+	
+	//Welcome
 
     }
 }
